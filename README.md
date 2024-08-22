@@ -1,21 +1,26 @@
 # TITLE
-ACME Co case Study
-## Overview and Origin
+ case Study
+ ## Overview and Origin
 
 * Name of company
+ElevenLabs
+A artificial intelligence startup, developing natural-sounding speech software.
 
 * When was the company incorporated?
-
+2022
 * Who are the founders of the company?
-
+Piotr Dąbkowski and Mateusz Staniszewski
 * How did the idea for the company (or project) come about?
-
+according to: https://en.wikipedia.org/wiki/ElevenLabs, the genesis reportedly started from watching inadequately dubbed American films
 * How is the company funded? How much funding have they received?
+In January of 2023 they secured a $2 million pre-seed, and in June 2023, they raised a $19 million Series A funding round (with a approximate valuation of $100 million).  This occured despite the company having no office and only 15 employees at the time.
 
 ## Business Activities
 
 * What specific problem is the company or project trying to solve?
-
+Up front on their website, they state:
+"We're building AI to shape the future of digital communication, ensuring content is understood by everyone, everywhere."
+Later on, they state: "Our mission is to make content universally accessible in any language and in any voice.
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
